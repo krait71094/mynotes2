@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884729725072",
+    "project_id": "mynotes2-flutter-zaki",
+    "storage_bucket": "mynotes2-flutter-zaki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884729725072:android:ce743c452cfdd130881815",
+        "android_client_info": {
+          "package_name": "my.zaki.mynotes2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884729725072-btbon8hlvlcckvmnsk03fk0dt0t43ebg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3sHEqoN_F9-nSnKafBE0ZNI3RncmqC98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884729725072-btbon8hlvlcckvmnsk03fk0dt0t43ebg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
